@@ -110,9 +110,15 @@ They lack an architectural layer responsible for:
 
 In other words, they possess intelligence, but not a governing system for that intelligence.
 
-When a system is built without a control layer for cognition, instability over time is not a bug. It is the natural outcome.
+When a system is built without a control layer for cognition, instability over time is not a bug; it is a feature. It is the natural outcome.
 
-These failures, therefore, do not indicate insufficient intelligence. They indicate a missing architectural tier.
+These failures, therefore, do not indicate a lack of intelligence. They indicate a missing architectural tier.
+
+## Definitions
+
+**Cognition:** A process of reasoning over time; a system with state, continuity, constraints, and historical dependency.
+**Governance:** Structural control mechanisms that ensure continuity, oversight, and accountability.
+**Control Plane:** Architectural layer responsible for regulating operational components.
 
 ---
 

@@ -1,3 +1,7 @@
+**Document Version:** v1.0  
+**Last Updated:** 2026-10-19  
+**Repository:** mvojambrich/VincentOS
+
 # VincentOS — Foundations of Governed Cognition
 
 ---
@@ -1009,3 +1013,15 @@ Its evolution must therefore prioritize:
 - Long-term trust over short-term adoption
 
 This document marks the beginning of that process.
+
+## Intended Audience
+
+This document is intended for:
+- System architects
+- AI governance researchers
+- Regulators and policy designers
+- Institutional adopters of cognitive systems
+
+**See also:**  
+- [VincentOS README](https://github.com/mvojambrich/VincentOS/blob/main/README.md)  
+- [v4.0.1 Release Notes](https://github.com/mvojambrich/VincentOS/releases/tag/v4.0.1)

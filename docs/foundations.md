@@ -1022,6 +1022,6 @@ This document is intended for:
 - Regulators and policy designers
 - Institutional adopters of cognitive systems
 
-**See also:**  
+**Related resources:**  
 - [VincentOS README](https://github.com/mvojambrich/VincentOS/blob/main/README.md)  
 - [v4.0.1 Release Notes](https://github.com/mvojambrich/VincentOS/releases/tag/v4.0.1)

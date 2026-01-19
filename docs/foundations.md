@@ -2,6 +2,19 @@
 
 ---
 
+## Contents
+
+1. The Structural Failure of Modern AI Systems  
+2. Cognition Is Not Capability  
+3. Why Models Cannot Self-Govern  
+4. The Missing Layer in AI Architecture  
+5. Governance as a Cognitive Control Plane  
+6. The Three Invariants of Reliable Cognition  
+7. The VincentOS Architectural Position  
+8. Why This Must Be Open and Architectural  
+9. Scope of This Document  
+10. Road Ahead
+
 ## 1. The Structural Failure of Modern AI Systems
 
 Modern artificial intelligence systems have achieved extraordinary levels of performance across perception, language, planning, and generation. In controlled environments, they can reason, summarize, code, diagnose, and advise with increasing accuracy. By most conventional benchmarks, AI capability is accelerating.

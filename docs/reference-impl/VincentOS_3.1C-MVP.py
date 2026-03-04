@@ -1,22 +1,26 @@
 """
-VincentOS 3.1C — BASELINE FREEZE
-Status: Certified MVP
+VincentOS 3.1C — Cognitive Pipeline MVP
+Status: Historical Prototype / Baseline Freeze
 Behavior: Immutable
-Purpose: Cognitive Architecture Reference Implementation
+Purpose: Reference Implementation of the VincentOS Cognitive Pipeline
+
+This file demonstrates the early VincentOS cognitive pipeline:
+
+IC → CL → PE → OM → FL
+
+This implementation predates the formal VincentOS 4.0.1 architectural
+specification and is preserved as a reference artifact.
+
+It illustrates how governed cognition may be structured in practice,
+but it is not the VincentOS architecture itself.
+
+This code is not production software.
+
+Authoritative architecture documents:
+- docs/foundations.md
+- docs/specs/VincentOS_4.0.1_MasterSpec.md
 
 Any changes beyond this point require a version increment.
-"""
-"""
-VincentOS 3.1C — Minimal Viable Prototype (MVP)
-------------------------------------------------
-Purpose:
-- Demonstrate a working Cognitive OS pipeline
-- IC → CL → PE → OM → FL
-- Architecture-first, governance-aware
-- Beginner-readable, mobile-friendly
-
-This is NOT production code.
-This IS an executable cognitive architecture spec.
 """
 
 from fastapi import FastAPI
@@ -230,3 +234,4 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 @app.get("/")
 def serve_dashboard():
     return FileResponse("static/index.html")
+

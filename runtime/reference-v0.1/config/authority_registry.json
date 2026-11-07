@@ -1,0 +1,10 @@
+{
+  "authorities": {
+    "operator-demo": {
+      "display_name": "Demonstration release operator",
+      "active": true,
+      "scopes": ["safety_critical"]
+    }
+  }
+}
+
